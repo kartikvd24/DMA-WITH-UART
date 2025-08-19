@@ -57,7 +57,7 @@ Hello from Stm32 DMA interface
 
 Below is a screenshot of RealTerm displaying the received data, and a photo of the STM32 board with its LED lit after DMA transfer:
 
-![RealTerm UART Output]((https://github.com/kartikvd24/DMA-WITH-UART/blob/main/Screenshot%202025-08-19%20191501.png))
+![RealTerm UART Output]([https://github.com/kartikvd24/DMA-WITH-UART/blob/main/Screenshot%202025-08-19%20191501.png])
 
 ![STM32 DMA LED](stm32_dma_led.png)
 
