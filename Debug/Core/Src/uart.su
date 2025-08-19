@@ -1,0 +1,9 @@
+C:/Users/desai/OneDrive/Desktop/bare_metal_programming_f4/STM32CubeF4-master/STM32CubeF4-master/Drivers/CMSIS/Core/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Core/Src/uart.c:31:14:uart_set_baudrate	24	static
+../Core/Src/uart.c:36:17:compute_uart_div	16	static
+../Core/Src/uart.c:41:6:dma1_stream6_init	24	static
+../Core/Src/uart.c:85:6:UART2_RXTX_Interrupt_INIT	8	static
+../Core/Src/uart.c:124:6:UART2_RXTX_INIT	8	static
+../Core/Src/uart.c:160:6:uart2_read	4	static
+../Core/Src/uart.c:167:6:uart2_write	16	static
+../Core/Src/uart.c:174:5:__io_putchar	16	static
