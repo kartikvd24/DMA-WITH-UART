@@ -53,18 +53,6 @@ Hello from Stm32 DMA interface
 
 5. On successful DMA completion, onboard LED turns ON.
 
-## Reference Image
-
-Below is a screenshot of RealTerm displaying the received data, and a photo of the STM32 board with its LED lit after DMA transfer:
-
-![RealTerm UART Output]([Screenshot 2025-08-19 191501.png])
-
-![STM32 DMA LED](stm32_dma_led.png)
-
-*(Add your actual images into the repo for the markdown to display.)*
-
----
-
 ## Files Included
 
 - `main.c` - Main application logic and DMA/UART setup
